@@ -1,4 +1,4 @@
-# Explore-South-Tyrol
+# Explore South Tyrol
 Explore South Tyrol is an innovative app for Android which, using Augmented Reality, lets you discover new cool places to see in South Tyrol. 
 
 ## Why? 
