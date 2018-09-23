@@ -11,7 +11,7 @@ Furthermore, we are open source lovers: the tons of South Tyrols' open data we c
 ## What?
 We thought that the best way to do it was to create an Augmented Reality app for Android that reports you some great places near your position. The app uses Open Data to calculate the point of interests position and displays them on your screen, marked with a green pin - if you click on it, you can see a short description of the place. 
 
-<img src="https://media.giphy.com/media/uTOSagbqwikH4gR5QC/giphy.gif"/>
+<img src="https://media.giphy.com/media/idMzoZtTWl7EVpPTHc/200w_d.gif"/>
 
 Have you seen a very interesting place? Just swipe on your screen! You'll throw a star on the ground, signaling that you liked the place where you are. If enough users do it, a starred pin will appear on the ground. 
 
