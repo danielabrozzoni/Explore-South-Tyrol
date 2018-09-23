@@ -4,7 +4,7 @@ Explore South Tyrol is an innovative app for Android which, using Augmented Real
 ## Why? 
 We want to encourage tourists to explore the South Tyrol, since we really liked it: full of green areas, entertainment and places to see - without a good help, there's a high chance you forgot to visit *that* great place you saw on the net. 
 
-We are srongly convinced that IT and nature need to work together, in perfect harmony: our project aims to integrate IT into our real, green, beautiful world. 
+We are strongly convinced that IT and nature need to work together, in perfect harmony: our project aims to integrate IT into our real, green, beautiful world. 
 
 Furthermore, we are open source lovers: the tons of South Tyrols' open data we could use and contribute to attracted us.  
 
