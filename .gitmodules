@@ -1,0 +1,6 @@
+[submodule "Explore-South-Tyrol-Frontend"]
+	path = Explore-South-Tyrol-Frontend
+	url = https://github.com/imaprincess/Explore-South-Tyrol-Frontend.git
+[submodule "Explore-South-Tyrol-Backend"]
+	path = Explore-South-Tyrol-Backend
+	url = https://github.com/imaprincess/Explore-South-Tyrol-Backend.git
