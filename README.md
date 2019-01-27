@@ -16,8 +16,3 @@ We thought that the best way to do it was to create an Augmented Reality app for
 Have you seen a very interesting place? Just swipe on your screen! You'll throw a star on the ground, marking the place where you are. If enough users do it, a starred pin will appear on the ground. 
 
 <img src="https://media.giphy.com/media/2fVliR2UZk6QzFAAVG/giphy.gif"/>
-
-## How? 
-Follow these links to view the full code: 
-- [Backend repository](https://github.com/imaprincess/Explore-South-Tyrol-Backend)
-- [Frontend repository](https://github.com/imaprincess/Explore-South-Tyrol-Frontend)
